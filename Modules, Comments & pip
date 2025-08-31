@@ -1,0 +1,33 @@
+#-----------MODULES----------
+#MODULES - a file containing code written by somebody else which can be impoted and used in our program.
+#PIP INSTALL PYJOKES  (To get some jokes)
+#import pyjokes
+#joke = pyjokes.get_joke()
+#print(joke)
+
+#there are two types of modules 1) built in module  2)external module
+
+
+#------PIP------
+#PIP - it is used to install any modules in your system through the help of pip.
+#pip install pyjokes
+#pip intsall numpy
+#pip install pandas
+
+RAPL -  Read , Evaluate , Print , Loop
+
+
+#-------COMMENTS------
+#Comment - it is used to unrun line of codes or used to show some information
+#there are two types of comments  1) single line comments (by # this) (ctrl + ?)
+#                                 2) Multiline commenst (with the help of """'''  this or quation like single or double quation)
+
+
+
+#QUESTION :
+ # 1.	Write a program to print Twinkle Twinkle Little Star poem in Python.
+ # 2.	Use REPL and print the table of 5 using it.
+ # 3.	Install an external module and use it to perform an operation of your interest.
+ # 4.	Write a Python program to print the contents of a directory using the os module. Search online for the function which does that.
+ # 5.	Label the program written in problem 4 with comments.
+
