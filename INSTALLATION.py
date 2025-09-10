@@ -10,8 +10,10 @@ STEP-2
     
     
 STEP-3
+    In vs code apps_mode
     Click on extension.
     write python on search.
     then install the extension of python
     
+
      """
